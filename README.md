@@ -3,6 +3,13 @@ Encrypt and Decrypt messages.
 
 ![Captura de pantalla (7)](https://user-images.githubusercontent.com/75953873/120932520-9166e600-c6cc-11eb-922f-e0a4dbd95903.png)
 
+#### Install
+```
+git clone https://github.com/R3LI4NT/Crypt-Zer0
+cd Crypt-Zer0
+python3 crypt-zer0.py
+```
+
 
 ### Encrypt
 ![Captura de pantalla (8)](https://user-images.githubusercontent.com/75953873/120932528-9b88e480-c6cc-11eb-8aef-3da71294917b.png)
@@ -23,11 +30,3 @@ rare = ['Ç','ü','é','â','ä','à','å','ç','ê','ë','è',
 'ÿ','Ö','Ü','ø','£','Ø','×','ƒ','ñ','Ñ','ª','®','¬',
 '½','¼','¾','«','»','á','í','ú','é']
 ```
-
-#### Install
-```
-git clone https://github.com/R3LI4NT/Crypt-Zer0
-cd Crypt-Zer0
-python3 crypt-zer0.py
-```
-
