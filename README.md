@@ -12,6 +12,8 @@ Encrypt and Decrypt messages.
 ![Captura de pantalla (9)](https://user-images.githubusercontent.com/75953873/120932542-a93e6a00-c6cc-11eb-816e-8960c56645bd.png)
 
 
+### Characters
+
 ```
 signs = ['+','-','_','!','#','$','%','&','/','(',')',
 '=','?','¿', '°','[',']','{','}',',','.','*','@','¡',
