@@ -5,14 +5,14 @@ Encrypt and Decrypt messages.
 
 
 
-### Encrypt
+### Encrypt:
 ![Captura de pantalla (8)](https://user-images.githubusercontent.com/75953873/120932528-9b88e480-c6cc-11eb-8aef-3da71294917b.png)
 
-### Decrypt
+### Decrypt:
 ![Captura de pantalla (9)](https://user-images.githubusercontent.com/75953873/120932542-a93e6a00-c6cc-11eb-816e-8960c56645bd.png)
 
 
-#### Characters
+#### Characters:
 
 ```
 signs = ['+','-','_','!','#','$','%','&','/','(',')',
@@ -27,7 +27,7 @@ rare = ['Ç','ü','é','â','ä','à','å','ç','ê','ë','è',
 '½','¼','¾','«','»','á','í','ú','é','ó']
 ```
 
-### Install
+### Install:
 ```
 git clone https://github.com/R3LI4NT/Crypt-Zer0
 cd Crypt-Zer0
