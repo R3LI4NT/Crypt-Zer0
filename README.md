@@ -1,4 +1,5 @@
-# Crypt-Zer0
+![crypt_zer0](https://user-images.githubusercontent.com/75953873/179090124-5181c565-e5a5-48d2-810c-e247d2c85579.png)
+
 Encrypt and Decrypt messages.
 
 ![Captura de pantalla (7)](https://user-images.githubusercontent.com/75953873/120932520-9166e600-c6cc-11eb-922f-e0a4dbd95903.png)
